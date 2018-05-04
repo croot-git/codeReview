@@ -1,4 +1,3 @@
-
     // Declare second integer, double, and String variables.
     var out1 = Number(input_stdin_array[0]) + i
     var out2 = (Number(input_stdin_array[1]) + d).toFixed(1)
