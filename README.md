@@ -1,7 +1,6 @@
+This Project is for code-review
 
-This Project is for Code-Review
-
-We solve the challenges in "hackerrank.com" and update to here
+We solve "hackerrank.com" challenges and update here
 
 If you want to join us, Contact me anywhen!!
 
@@ -16,26 +15,26 @@ Thx.
 
 ## filename format
 
-    {{challenge key}}.{{language extension}}
+    {{CHALLENGE KEY}}.{{LANGUAGE EXTENSION}}
     
     Examples:
         30-data-types.java
         grading.py
         ...
 
-### challenge key
+### What is "challenge key"?
 
-> ##### same as hackerrank key between "/challenges" and "/problem"
+> ##### Same as hackerrank key between "/challenges" and "/problem" on challenge url
 
->> if challenge url is "https://www.hackerrank.com/challenges/grading/problem",
+>> If the challenge url is "https://www.hackerrank.com/challenges/grading/problem",
 
->> the challenge key is "grading"
+>> the challenge key is **"grading"**
     
 
-### language extension
+### What is "language extension"?
 
-> ##### write language extension what you used (js,java,php,py...)
+> ##### It is language extension what you used (js,rb,java,php,py...)
 
->> show under referrence link:
+>> Show under referrence link:
 
 >> https://gitlab.com/gitlab-org/linguist/blob/master/lib/linguist/languages.yml
