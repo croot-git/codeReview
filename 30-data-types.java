@@ -8,11 +8,12 @@ public class Solution {
         
         int j = scan.nextInt();
         double e = scan.nextDouble();
-        String v = scan.nextLine();
-        	
+        scan.nextLine();    // 인트&더블형 이후 문자열 개행 처리 // 비선언시 문자열 null 로 나옴
+        String inputString = scan.nextLine();
+
         System.out.println(i + j);
         System.out.println(d + e);
-        System.out.println(s + v);
+        System.out.println(s + inputString);
         
         scan.close();
     }
