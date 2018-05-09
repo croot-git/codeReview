@@ -7,7 +7,7 @@ public class Solution {
         String oddRs = "";
         String evenRs = "";
         sc.nextLine();
-		for (int i = 0; i < T; i++) {
+	for (int i = 0; i < T; i++) {
             s = sc.nextLine();
             String[] sArr = s.split("");
             for(int j = 0 ; j < sArr.length ; j++) {
