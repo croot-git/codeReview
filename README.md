@@ -9,8 +9,8 @@ Thx.
 
 # Update Role
 
-1. create new branch as your nickname
-2. join to hackerrank ( <https://www.hackerrank.com/> )
+1. create new branch "[WEBSITE]-[YOUR_NICKNAME]" (ex. hackerrank-croot, programmers-croot)
+2. join to website (ex. [hackerrank]<https://www.hackerrank.com/>, [programmers]<https://programmers.co.kr/>)
 3. solve the challenges and upload source file
 
 ## filename format
